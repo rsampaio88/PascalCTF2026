@@ -1,4 +1,4 @@
-# PascalCTF
+# PascalCTF2026
 
 This repository contains some of my script-based solutions for PascalCTF challenges:
 
